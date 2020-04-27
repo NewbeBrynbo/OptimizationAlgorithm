@@ -1,5 +1,4 @@
 # -*-coding:utf-8 -*-
-
 import math
 
 '''
@@ -44,7 +43,6 @@ def golden(a,b,theta):
     print("f*= "+str(f_opt))
 
     return a,b,t_opt,f_opt,step_num
-
 
 l,r,t_opt,f_opt,step_num=golden(-3,5,0.001)
 print("a: "+str(l)+"  "+"b: "+str(r))
