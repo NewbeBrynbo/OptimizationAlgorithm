@@ -3,5 +3,4 @@
 
 #### Update 2020-4-27
 >commit GoldenSection.py
-
 >commit ParabolicInterpolation.py
