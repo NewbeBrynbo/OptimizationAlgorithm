@@ -4,7 +4,7 @@
 
 
 #### Update 2020-4-28
->commit UnivariateSearchTechnique.py
+>commit UnivariateSearchTechnique.py（感觉老老实实用Matlab比较好呢2333）
 
 #### Update 2020-4-27
 >commit GoldenSection.py
